@@ -1,0 +1,15 @@
+Determinación de umbrales para discriminación por color (RGB). Usando la herramienta colorThresholder pueden
+determinarse umbrales aproximados:
+
+	   	   R        G       B
+>>ROJO: 	[90 255] [12 64] [13 181]
+
+>>AMARILLO: 	[194 255] [173 255] [0 90]
+
+>>NARANJA:	[209 255] [0 146] [0 255]
+
+>>VERDE: 	[0 150] [155 255] [23 144]
+
+>>AZUL:		[0 97] [0 145] [108 255]
+
+>>NEGRO: 	[21 91] [0 88] [0 86]
